@@ -1,0 +1,2 @@
+# livecd
+Debian testing live
